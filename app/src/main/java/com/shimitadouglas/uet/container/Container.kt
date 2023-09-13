@@ -34,10 +34,10 @@ import androidx.navigation.NavHostController
 import com.shimitadouglas.uet.R
 import com.shimitadouglas.uet.bottom.BottomNavItemState
 import com.shimitadouglas.uet.routes.Routes
-import com.shimitadouglas.uet.screens.Home
-import com.shimitadouglas.uet.screens.Members
-import com.shimitadouglas.uet.screens.Notification
-import com.shimitadouglas.uet.screens.Profile
+import com.shimitadouglas.uet.screens.bottom.Home
+import com.shimitadouglas.uet.screens.bottom.Members
+import com.shimitadouglas.uet.screens.bottom.Notification
+import com.shimitadouglas.uet.screens.bottom.Profile
 import com.shimitadouglas.uet.topbar.TopBar
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")

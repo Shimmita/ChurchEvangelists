@@ -5,10 +5,10 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.shimitadouglas.uet.routes.Routes
-import com.shimitadouglas.uet.screens.Home
-import com.shimitadouglas.uet.screens.Members
-import com.shimitadouglas.uet.screens.Notification
-import com.shimitadouglas.uet.screens.Profile
+import com.shimitadouglas.uet.screens.bottom.Home
+import com.shimitadouglas.uet.screens.bottom.Members
+import com.shimitadouglas.uet.screens.bottom.Notification
+import com.shimitadouglas.uet.screens.bottom.Profile
 
 @Composable
 fun Nav(navigationController: NavHostController) {

@@ -1,4 +1,4 @@
-package com.shimitadouglas.uet.screens
+package com.shimitadouglas.uet.screens.bottom
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

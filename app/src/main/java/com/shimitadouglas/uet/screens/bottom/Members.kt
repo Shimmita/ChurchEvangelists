@@ -1,4 +1,4 @@
-package com.shimitadouglas.uet.screens
+package com.shimitadouglas.uet.screens.bottom
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -10,12 +10,12 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 
 @Composable
-fun Profile(navigationController: NavHostController) {
+fun Members(navigationController: NavHostController) {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
         modifier = Modifier.fillMaxSize()
     ) {
-        Text(text = "Profile")
+        Text(text = "Members")
     }
 }
